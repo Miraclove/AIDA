@@ -37,7 +37,7 @@ D) Delete a buddy.
 9) Implementing the Local Area Network function.
 When the users are in the same LAN, it realizes the mutual transmission of files and large bandwidth file transmission by using the LAN advantage.
 
-10）Make the message cloud synchronization function
+10) Make the message cloud synchronization function
 User chat messages are automatically passed to the server for storage, and users can view the chat logs retrieved from the server.
 
 I am as a team lead of developing this software
